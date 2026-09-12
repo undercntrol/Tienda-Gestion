@@ -1,0 +1,3 @@
+Desarrollar e implementar un sistema de gestión para una cigarrería o tienda que permita centralizar y controlar digitalmente las principales operaciones relacionadas con las ventas del negocio. El sistema deberá facilitar el registro, almacenamiento y consulta de las ventas realizadas, permitiendo al tendero disponer de información organizada, persistente y de fácil acceso.
+
+El producto estará orientado a reducir la dependencia de registros manuales, disminuir posibles errores o pérdidas de información y facilitar el seguimiento de las operaciones comerciales realizadas diariamente. Además, deberá permitir que la información registrada pueda ser consultada posteriormente para apoyar el control y la toma de decisiones relacionadas con el funcionamiento del negocio.

@@ -1,0 +1,9 @@
+Definition of Done
+ 
+Una historia de usuario se considera terminada cuando cumple todas las siguientes condiciones:
+ 
+La funcionalidad está implementada en el código.
+La funcionalidad puede ejecutarse correctamente.
+La funcionalidad fue probada con casos normales y casos de error.
+No existen errores conocidos que impidan utilizar la funcionalidad.
+El código fue integrado al repositorio.
